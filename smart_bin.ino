@@ -11,9 +11,9 @@
 #include <PubSubClient.h>
 
 
-char ssid[] = "SYKGSDJA";
-char pass[] = "jMaLGI8E9NMk";
-char auth[] = "At_VfjTnnHJEDWOs8D_-xUVHm7-ct-6v";
+char ssid[] = "************";
+char pass[] = "************";
+char auth[] = "*********************************";
 
 #define MQTT_BROKER "test.mosquitto.org"
 #define MQTT_PORT (1883)
